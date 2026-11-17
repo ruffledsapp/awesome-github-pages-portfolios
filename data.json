@@ -1,0 +1,22 @@
+{
+ "week": "2026-W47",
+ "date": "2026-11-17",
+ "source_commit": "4212650ddee22040e3a8fb864e5d8d3828f3dc68",
+ "total": 32,
+ "alive": 25,
+ "dead": 7,
+ "featured": [
+  "https://github.com/unchained-labs/unchainlabs.xyz",
+  "https://github.com/guilyx/resume",
+  "https://github.com/guilyx/v1",
+  "https://github.com/guilyx/v2",
+  "https://github.com/guilyx/v3",
+  "https://github.com/guilyx/v4",
+  "https://github.com/jrosseruk/jrosseruk.github.io",
+  "https://github.com/RyanFitzgerald/devportfolio",
+  "https://github.com/saadpasta/developerFolio",
+  "https://github.com/mmacneil/devfolio",
+  "https://github.com/vinaysomawat/vinaysomawat.github.io",
+  "https://github.com/evanca/quick-portfolio"
+ ]
+}
